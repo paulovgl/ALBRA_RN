@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668700043919",
+    "project_id": "albra-reactn",
+    "storage_bucket": "albra-reactn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668700043919:android:83c68074967eb669835efa",
+        "android_client_info": {
+          "package_name": "com.albra_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668700043919-sh922851fgkijo46842qu6oqt4she1bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oxx3QnwyCkVsTMqqBl8NMQyGRuIF2qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668700043919-sh922851fgkijo46842qu6oqt4she1bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
